@@ -1,0 +1,15 @@
+# Node/React template
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+*.log
+coverage/
+.vscode/
+.idea/
+*.cache
+*.tmp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
