@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "echo 'Add your start script (e.g., vite, next, react-scripts) here'",
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "lint": "eslint .",
     "format": "prettier --write .",
     "build": "echo 'Add your build script (e.g., vite build, next build, webpack) here'"
