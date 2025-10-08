@@ -44,7 +44,8 @@ jest.config.js
 
 ## Member List
 - Tracey Nduta ([KimemiaT](https://github.com/KimemiaT))
-- Add other members here
+- Felista
+- Michael
 
 ## Contribution Guidelines
 - Create feature branches from `dev`.
